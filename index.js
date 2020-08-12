@@ -6,7 +6,7 @@ const util = require("util");
 const writeFileAsync = util.promisify(fs.writeFile);
 
 // array of questions for user
-console.log(generateMarkdown());
+// console.log(generateMarkdown());
 
 function inputPrompt() {
   return inquirer.prompt([
@@ -52,14 +52,13 @@ function inputPrompt() {
 // function to initialize program
 async function init() {
     console.log("initialized!")
-    
+    const data = await inputPrompt();
+    console.log(data)
    
 
     try {
-        const data = await inputPrompt();
-        const generate = generateMarkdown(data)
         console.log(generateMarkdown(data))
-        await writeFileAsync("generatedREADME.md", generate);
+        await writeFileAsync("generatedREADME.md", generateMarkdown(data));
         console.log("Readme file created!");
 
     } catch (err) {
