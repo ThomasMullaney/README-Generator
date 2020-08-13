@@ -20,6 +20,8 @@ return `## ${data.title}
 ## Usage:${data.usage}
 ## Contributing:${data.contributing}
 ## Testing:${data.test}
+## github.com/${data.Github}
+## Email: ${data.email}
 `
 };
 

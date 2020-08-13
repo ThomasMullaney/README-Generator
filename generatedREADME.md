@@ -1,4 +1,4 @@
-## Tom's README-generator
+## Tom's README Generator
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 # Table of Contents
  
@@ -11,9 +11,11 @@
 * [Questions](#questions)
 
 
-## Description:Code using node that has user answer prompts to dynamically create a outline of their projects README.md
-## License:a drivers license
-## Installation: none
-## Usage:To save time creating READMEs while also making them more detailed and informative
-## Contributing:me, Tom.
-## Testing:Open the index.js file in the intergated terminal and type node idex. from their the prompts will be displayed one after another. Respond to the prompts to detail your README.md
+## Description:project to quickly create more informative READMEs 
+## License:Apache
+## Installation: npm install inquirer, fs, and util
+## Usage:to make better READMEs with less time and effort
+## Contributing:me, Tom
+## Testing:open the index.js in the intergrated terminal and answer the prompts
+## github.com/undefined
+## Email: tloring.mullaney@gmail.com
