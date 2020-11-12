@@ -4,7 +4,7 @@ function generateMarkdown(data) {
     [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
     ## Description:
-    ### ${answers.description}
+    ### ${data.description}
 
     ## Table of Contents:
      
@@ -22,7 +22,7 @@ function generateMarkdown(data) {
     ### ${data.usage}
 
     ## License:
-    ### ${renderBadge(data.license[0])}
+    ### ${renderBadge(data.license)}
     
     ## Contributing:
     ### ${data.contributing}
