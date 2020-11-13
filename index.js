@@ -15,26 +15,26 @@ function inputPrompt() {
         {
             type: "input",
             message: "Give your project a title.",
-            name: "Title",
+            name: "title",
         },
         {
             type: "input",
             message: "Describe your project.",
-            name: "Description",
+            name: "description",
         },
         {
             type: "input",
             message: "List any installation instructions.",
-            name: "Installation "
+            name: "installation"
         },
         {
             type: "input",
             message: "Describe how your project should be utilized.",
-            name: "Usage"
+            name: "usage"
         },
         {
             type: "checkbox",
-            name: "License",
+            name: "license",
             message: "Please choose a license.",
             choices: [
                 "Apache",
@@ -47,7 +47,7 @@ function inputPrompt() {
         {
             type: "input",
             message: "Who created/contributed to the project?",
-            name: "Contributing",
+            name: "contributing",
         },
         {
             type: "input",
@@ -71,9 +71,9 @@ function inputPrompt() {
 async function init() {
     console.log("initialized!")
     try {
-        const data = await inputPrompt();
-        console.log(generateMarkdown(data))
-        await writeFileAsync("generatedREADME.md", generateMarkdown(data));
+        const answers = await inputPrompt();
+        console.log(generateMarkdown(answers))
+        await writeFileAsync("generatedREADME.md", generateMarkdown(answers));
         console.log("Readme file created!");
     } catch (err) {
         console.log(err);

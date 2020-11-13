@@ -1,10 +1,10 @@
 // function to generate markdown for README
-function generateMarkdown(data) {
-    return `# ${data.title}
+function generateMarkdown(answers) {
+    return `# ${answers.title}
     [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
     ## Description:
-    ### ${data.description}
+    ### ${answers.description}
 
     ## Table of Contents:
      
@@ -16,24 +16,24 @@ function generateMarkdown(data) {
     6. [Questions](#questions) 
 
     ## Installation: 
-    ### ${data.installation}
+    ### ${answers.installation}
 
     ## Usage:
-    ### ${data.usage}
+    ### ${answers.usage}
 
     ## License:
-    ### ${renderBadge(data.license)}
+    ### ${renderBadge(answers.license)}
     
     ## Contributing:
-    ### ${data.contributing}
+    ### ${answers.contributing}
 
     ## Tests:
-    ### ${data.test}
+    ### ${answers.test}
 
     
     ## Questions:
-    ### github.com/${data.Github}
-    ### ${data.email}
+    ### github.com/${answers.Github}
+    ### ${answers.email}
     `
 };
 
