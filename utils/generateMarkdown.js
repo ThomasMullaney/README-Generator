@@ -2,6 +2,13 @@
 function generateMarkdown(answers) {
     return `# ${answers.title}
 
+    <div>
+    <h4>
+    </a>
+    <a href="https://github.com/${answers.gitHub}/${answers.title}/stargazers"><img src="https://img.shields.io/github/stars/${answers.gitHub}/${answers.title}.svg?style=plasticr"/></a>
+    <a href="https://github.com/${answers.gitHub}/${answers.title}/commits/master"><img src="https://img.shields.io/github/last-commit/${answers.gitHub}/${answers.title}.svg?style=plasticr"/></a>
+        <a href="https://github.com/${answers.gitHub}/${answers.title}/commits/master"><img src="https://img.shields.io/github/commit-activity/y/${answers.gitHub}/${answers.title}.svg?style=plasticr"/></a>
+    </h4>
     
     [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
