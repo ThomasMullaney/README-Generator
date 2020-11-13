@@ -1,7 +1,4 @@
-# README Generator
-
-    
-    [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+# README Generator[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
     ## Description:
     ### A node application utilizing inquirer to help users quickly create more detailed READMEs.
