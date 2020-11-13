@@ -57,7 +57,7 @@ function inputPrompt() {
         {
             type: "input",
             message: "Enter your gitHub username",
-            name: "gitHub Username"
+            name: "gitHub"
         },
         {
             type: "input",

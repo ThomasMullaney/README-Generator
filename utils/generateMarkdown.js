@@ -1,6 +1,8 @@
 // function to generate markdown for README
 function generateMarkdown(answers) {
     return `# ${answers.title}
+
+    
     [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
     ## Description:
