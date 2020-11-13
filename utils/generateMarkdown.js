@@ -2,7 +2,7 @@
 function generateMarkdown(answers) {
     return `# ${answers.title}
 
-    <div>
+<div>
     <h4>
     </a>
     <a href="https://github.com/${answers.gitHub}/${answers.title}/stargazers"><img src="https://img.shields.io/github/stars/${answers.gitHub}/${answers.title}.svg?style=plasticr"/></a>
@@ -12,37 +12,37 @@ function generateMarkdown(answers) {
     
     [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
-    ## Description:
-    ### ${answers.description}
+## Description:
+### ${answers.description}
 
-    ## Table of Contents:
+## Table of Contents:
      
-    1. [Installation](#installation)
-    2. [Usage](#usage)
-    3. [License](#license)
-    4. [Contributing](#contributing)
-    5. [Tests](#tests)
-    6. [Questions](#questions) 
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [License](#license)
+4. [Contributing](#contributing)
+5. [Tests](#tests)
+6. [Questions](#questions) 
 
-    ## Installation: 
-    ### ${answers.installation}
+## Installation: 
+### ${answers.installation}
 
-    ## Usage:
-    ### ${answers.usage}
+## Usage:
+### ${answers.usage}
 
-    ## License:
-    ### ${renderBadge(answers.license[0])}
+## License:
+### ${renderBadge(answers.license[0])}
     
-    ## Contributing:
-    ### ${answers.contributing}
+## Contributing:
+### ${answers.contributing}
 
-    ## Tests:
-    ### ${answers.test}
+## Tests:
+### ${answers.test}
 
     
-    ## Questions:
-    ### github.com/${answers.gitHub}
-    ### ${answers.email}
+## Questions:
+### github.com/${answers.gitHub}
+### ${answers.email}
     `
 };
 
