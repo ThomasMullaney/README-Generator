@@ -1,12 +1,12 @@
 # README Generator
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
-<div align="center">
+<div>
   <h4>
     </a>
-    <a href="https://github.com/ThomasMullaney/README-generator/stargazers"><img src="https://img.shields.io/github/stars/ThomasMullaney/README-generator.svg?style=plasticr"/></a>
-    <a href="https://github.com/ThomasMullaney/README-generator/commits/master"><img src="https://img.shields.io/github/last-commit/ThomasMullaney/README-generator.svg?style=plasticr"/></a>
-        <a href="https://github.com/ThomasMullaney/README-generator/commits/master"><img src="https://img.shields.io/github/commit-activity/y/ThomasMullaney/README-generator.svg?style=plasticr"/></a>
+    <a href="https://github.com/ThomasMullaney/README-generator/stargazers"><img src="https://img.shields.io/github/stars/ThomasMullaney/README-Generator.svg?style=plasticr"/></a>
+    <a href="https://github.com/ThomasMullaney/README-generator/commits/master"><img src="https://img.shields.io/github/last-commit/ThomasMullaney/README-Generator.svg?style=plasticr"/></a>
+        <a href="https://github.com/ThomasMullaney/README-generator/commits/master"><img src="https://img.shields.io/github/commit-activity/y/ThomasMullaney/README-Generator.svg?style=plasticr"/></a>
 </h4>
 
 ## Description:
