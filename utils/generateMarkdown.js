@@ -22,7 +22,7 @@ function generateMarkdown(answers) {
     ### ${answers.usage}
 
     ## License:
-    ### ${renderBadge(answers.license)}
+    ### ${renderBadge(answers.license[0])}
     
     ## Contributing:
     ### ${answers.contributing}
@@ -32,7 +32,7 @@ function generateMarkdown(answers) {
 
     
     ## Questions:
-    ### github.com/${answers.Github}
+    ### github.com/${answers.gitHub}
     ### ${answers.email}
     `
 };

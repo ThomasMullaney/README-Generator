@@ -2,7 +2,7 @@
     [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
     ## Description:
-    ### A node program to assist users in quickly creating more detailed READMEs.
+    ### Node application to help users quickly create more detailed READMEs.
 
     ## Table of Contents:
      
@@ -14,13 +14,14 @@
     6. [Questions](#questions) 
 
     ## Installation: 
-    ### Clone the repo and npm install before starting. 
+    ### Clone the repo and npm install before beginning.
 
     ## Usage:
-    ### Within the terminal type node index.js to begin.
+    ### Type within the terminal/command line "node index.js".
 
     ## License:
-    ### [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+    ### [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+The Apache License is a permissive free software license written by the Apache Software Foundation (ASF). It allows users to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license, without concern for royalties."
     
     ## Contributing:
     ### Tom Mullaney 
