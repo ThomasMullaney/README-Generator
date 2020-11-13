@@ -1,6 +1,5 @@
 # README Generator
 
-    
     [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
     ## Description:
@@ -35,4 +34,5 @@ The Apache License is a permissive free software license written by the Apache S
     ## Questions:
     ### github.com/ThomasMullaney
     ### tloring.mullaney@gmail.com
+    
     
