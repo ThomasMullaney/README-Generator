@@ -4,9 +4,9 @@
 <div align="center">
   <h4>
     </a>
-    <a href="https://github.com/adbergen/README-generator/stargazers"><img src="https://img.shields.io/github/stars/adbergen/README-generator.svg?style=plasticr"/></a>
-    <a href="https://github.com/adbergen/README-generator/commits/master"><img src="https://img.shields.io/github/last-commit/adbergen/README-generator.svg?style=plasticr"/></a>
-        <a href="https://github.com/adbergen/README-generator/commits/master"><img src="https://img.shields.io/github/commit-activity/y/adbergen/README-generator.svg?style=plasticr"/></a>
+    <a href="https://github.com/adbergen/README-generator/stargazers"><img src="https://img.shields.io/github/stars/ThomasMullaney/README-generator.svg?style=plasticr"/></a>
+    <a href="https://github.com/adbergen/README-generator/commits/master"><img src="https://img.shields.io/github/last-commit/ThomasMullaney/README-generator.svg?style=plasticr"/></a>
+        <a href="https://github.com/adbergen/README-generator/commits/master"><img src="https://img.shields.io/github/commit-activity/y/ThomasMullaney/README-generator.svg?style=plasticr"/></a>
 </h4>
 
 ## Description:
