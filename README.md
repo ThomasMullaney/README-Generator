@@ -12,7 +12,7 @@
 ## Description:
 ### A node application utilizing inquirer to help users quickly create more detailed READMEs.
 
-![Screenshot of Application](img/Capture.png)
+![Screenshot of Application](img/capture.png)
 
 ## Table of Contents:
      
