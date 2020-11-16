@@ -33,6 +33,8 @@ This is a README generator application</p>
 ## Description:
 ### A node application utilizing inquirer to help users quickly create more detailed READMEs.
 
+![Screenshot of Application](img/Capture.PNG)
+
 ## Table of Contents:
      
  1. [Installation](#installation)
