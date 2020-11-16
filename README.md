@@ -9,6 +9,27 @@
         <a href="https://github.com/ThomasMullaney/README-Generator/commits/master"><img src="https://img.shields.io/github/commit-activity/y/ThomasMullaney/README-Generator.svg?style=plasticr"/></a>
 </h4>
 
+<p align="center"><font size="3">
+This is a README generator application</p>
+<div align="center"><a name="menu"></a>
+  <h4>
+    <a href="https://github.com/ThomasMullaney/README-Generator">
+      Github Repository
+    </a>
+<span> | </span>
+<a href="https://thomasmullaney.github.io/README-Generator/">
+      Github Pages
+    </a>
+    <span> | </span>
+<a href="https://drive.google.com/file/d/1a72rUw6RnszpkPKlYYCbUsIiGrI2OiIR/view">
+      Video Walkthrough
+    </a>
+  </h4>
+</div>
+
+![Screenshot of application demo](img/Capture.png)
+
+
 ## Description:
 ### A node application utilizing inquirer to help users quickly create more detailed READMEs.
 
