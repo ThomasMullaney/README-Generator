@@ -1,5 +1,4 @@
 # README Generator
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
 <div>
   <h4>
@@ -27,7 +26,7 @@ This is a README generator application</p>
   </h4>
 </div>
 
-![Screenshot of application demo](img/Capture.png)
+![Screenshot of application demo](img/Capture.PNG)
 
 
 ## Description:
@@ -49,6 +48,15 @@ This is a README generator application</p>
 
  ## Usage:
  ### Within the terminal type "node index.js" to initialize prompts.
+
+## Technologies:
+
+<ul>
+<li>HTML</li>
+<li>Javascript, jQuery, JSON</li>
+<li>node.js</li>
+<li>Github</li>
+</ul>
 
  ## License:
  ### [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
