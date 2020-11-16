@@ -12,6 +12,8 @@
 ## Description:
 ### A node application utilizing inquirer to help users quickly create more detailed READMEs.
 
+![Screenshot of Application](img/Capture.png)
+
 ## Table of Contents:
      
  1. [Installation](#installation)
