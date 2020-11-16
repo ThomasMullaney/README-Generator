@@ -12,6 +12,8 @@
 ## Description:
 ### A node application utilizing inquirer to help users quickly create more detailed READMEs.
 
+<a href="https://github.com/ThomasMullaney/README-Generator"> Github Repository </a> | <a href="https://thomasmullaney.github.io/README-Generator/."> Github Pages </a>
+
 ## Table of Contents:
      
  1. [Installation](#installation)
