@@ -52,7 +52,6 @@ This is a README generator application</p>
 ## Technologies:
 
 <ul>
-<li>HTML</li>
 <li>Javascript, jQuery, JSON</li>
 <li>node.js</li>
 <li>Github</li>
